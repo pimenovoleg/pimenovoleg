@@ -16,6 +16,8 @@
 <br>
 <br>
 
+Contact me on LinkedIn or [Twitter](https://twitter.com/pimenovoleg).
+
 ---
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Fost)](https://github.com/anuraghazra/github-readme-stats)
 
