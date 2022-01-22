@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Oleg Pimenov! 👋
 
 
 ### Languages and Tools:
@@ -10,6 +10,8 @@
 <code><img alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></code>
 <code><img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 <code><img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img alt="NextJS" width="50px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"></code>
 
 ## Social networking
 
