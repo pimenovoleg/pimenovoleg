@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
 </a>
 
----
+## Github stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Fost)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fost&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
