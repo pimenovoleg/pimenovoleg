@@ -13,6 +13,9 @@
 <code><img alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img alt="NextJS" width="50px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"></code>
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fost)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Social networking
 
 <a href="https://github.com/Fost" target="_blank">
