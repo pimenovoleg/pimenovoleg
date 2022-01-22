@@ -1,7 +1,7 @@
 ### Hi, I'm Oleg Pimenov! 👋
 
 
-### Languages and Tools:
+### Languages and Tools
 
 <code><img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -13,10 +13,8 @@
 <code><img alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img alt="NextJS" width="50px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"></code>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fost)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Social networking
+## Contact Me on Social Media
 
 <a href="https://github.com/Fost" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
@@ -38,6 +36,12 @@
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
 </a>
 
+
 ## Github stats
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fost)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## Work stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Fost)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fost&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
