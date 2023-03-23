@@ -39,7 +39,7 @@
 
 ## Github stats
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fost)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pimenovoleg)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Work stats
