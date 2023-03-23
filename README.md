@@ -16,7 +16,7 @@
 
 ## Contact Me on Social Media
 
-<a href="https://github.com/Fost" target="_blank">
+<a href="https://github.com/pimenovoleg" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
 
@@ -43,5 +43,5 @@
 
 
 ## Work stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Fost)](https://github.com/anuraghazra/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fost&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=pimenovoleg)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pimenovoleg&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
