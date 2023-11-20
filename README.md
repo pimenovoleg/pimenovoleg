@@ -12,6 +12,7 @@
 <code><img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 <code><img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
+
 ## Contact Me on Social Media
 
 <a href="https://github.com/pimenovoleg" target="_blank">
@@ -36,4 +37,6 @@
 
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=pimenovoleg)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pimenovoleg&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
