@@ -35,8 +35,12 @@
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
 </a>
 
+<a href="https://dev.to/pimenovoleg" target="_blank">
+  <img src="https://img.shields.io/badge/-devto-0088cc?style=flat-square&logo=devto" alt="DevTo">
+</a>
+
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=pimenovoleg)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pimenovoleg&langs_count=5&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
